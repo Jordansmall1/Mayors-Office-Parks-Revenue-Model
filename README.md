@@ -31,7 +31,7 @@ The model was used internally by CFO Jonathan George during 2026 fee restructuri
 ## Files  
 - `elasticity_model.xlsx`  
 - `scenario_tester.xlsx`  
-- `Model-Screenshots/` (add images)  
+- `Model-Screenshots/`  
 
 ## Stakeholder Impact  
 The model supported real policy decisions and was reviewed by:
