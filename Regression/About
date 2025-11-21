@@ -1,0 +1,27 @@
+## About the Regression Analysis
+
+For this project, I used the dataset provided to analyze how different amenities and facility types influence output (quantity sold) and overall sales performance.
+
+### **Data Preparation**
+I began by organizing the raw dataset and extracting key variables, including:
+
+- `Price`
+- `Quantity`
+- `Revenue`
+- `Product / Category`
+- `Facility`
+
+To properly model the effects of amenities, I created **dummy variables** representing:
+- Amenity type  
+- Facility type  
+- Program category  
+- Location-based characteristics  
+
+These dummy variables allow the model to measure how each feature (e.g., camps, shelters, rentals, aquatic facilities, dog parks, open gyms, etc.) impacts the expected quantity sold relative to a baseline.
+
+### **Model Specification**
+I ran a log-log regression of the form:
+
+```txt
+ln(Quantity) = β0 + β1 * ln(Price) + Σ γk * Dummy_k + ε
+
