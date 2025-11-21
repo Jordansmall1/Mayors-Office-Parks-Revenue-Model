@@ -3,7 +3,7 @@ Elasticity-based revenue optimization model used by the Indianapolis Mayor’s O
 # Indy Parks Revenue & Elasticity Optimization Model  
 Built for the Indianapolis Mayor’s Office (Parks & Recreation CFO)
 
-## 📌 Overview  
+##  Overview  
 This model evaluates how changes in pricing affect revenue, demand, and cost recovery across:
 - Pool admissions  
 - Dog park passes  
@@ -13,7 +13,7 @@ This model evaluates how changes in pricing affect revenue, demand, and cost rec
 
 The model was used internally by CFO Jonathan George during 2026 fee restructuring discussions.
 
-## 🔧 Methods Used  
+##  Methods Used  
 - Elasticity-based demand modeling  
 - Scenario testing (500+ simulations)  
 - Cost recovery & marginal cost calculations  
@@ -21,19 +21,19 @@ The model was used internally by CFO Jonathan George during 2026 fee restructuri
 - Forecasting revenue under variable price bands  
 - Interactive dashboards in Excel
 
-## 📊 Deliverables  
+## Deliverables  
 - Multi-tab Excel model (elasticity, revenue, comparisons)  
 - Automated price tester  
 - Cost recovery calculator  
 - Peer-city visual comparison charts  
 - CFO presentation summary
 
-## 📂 Files  
+## Files  
 - `elasticity_model.xlsx`  
 - `scenario_tester.xlsx`  
 - `Model-Screenshots/` (add images)  
 
-## 🏛 Stakeholder Impact  
+## Stakeholder Impact  
 The model supported real policy decisions and was reviewed by:
 - CFO of Indy Parks  
 - Finance & Business Development Office  
