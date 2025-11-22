@@ -1,5 +1,5 @@
 # Indy-Parks-Revenue-Model
-Elasticity-based revenue optimization model used by the Indianapolis Mayor’s Office.
+Elasticity-based revenue optimization model used by the Indianapolis Office of parks and recs.
 # Indy Parks Revenue & Elasticity Optimization Model  
 Built for the Indianapolis Mayor’s Office (Parks & Recreation CFO)
 
