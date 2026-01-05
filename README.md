@@ -70,7 +70,7 @@ b = -E \cdot \frac{Q_0}{P_0}, \quad a = Q_0 + bP_0
 Q(P) = a - bP
 \]
 
-![Demand Curve](visuals/demand_curve_1.png)  
+![Demand Curve](visuals/indyparks1.png)  
 ![Demand Curve](visuals/demand_curve_2.png)
 
 ---
