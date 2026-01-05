@@ -60,13 +60,10 @@ ln(Qₜ) = α + β · ln(Pₜ) + εₜ
 ---
 
 ### 2. Demand Curve Modeling (Excel)
-
-\[
-b = -E · (Q₀ / P₀), a = Q₀ + b · P₀
-\]
-\[
+b = -E · (Q0 / P0)
+a = Q0 + b · P0
 Q(P) = a - bP
-\]
+
 
 ![Demand Curve](visuals/indyparks1.png)  
 ![Demand Curve](visuals/demand_curve_2.png)
