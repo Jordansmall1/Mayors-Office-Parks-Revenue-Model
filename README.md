@@ -53,9 +53,7 @@ images/      Monte-Carlo & policy sensitivity outputs
 
 ### 1. Elasticity Estimation (Regression)
 
-\[
-\ln(Qₜ) = α + β · ln(Pₜ) + εₜ
-\]
+ln(Qₜ) = α + β · ln(Pₜ) + εₜ
 
 ![Elasticity Regression](regression/elasticity_regression_output.jpg)
 
