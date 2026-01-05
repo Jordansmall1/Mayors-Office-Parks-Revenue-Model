@@ -54,7 +54,7 @@ images/      Monte-Carlo & policy sensitivity outputs
 ### 1. Elasticity Estimation (Regression)
 
 \[
-\ln(Q_t) = \alpha + \beta \ln(P_t) + \varepsilon_t
+\ln(Qₜ) = α + β · ln(Pₜ) + εₜ
 \]
 
 ![Elasticity Regression](regression/elasticity_regression_output.jpg)
@@ -64,7 +64,7 @@ images/      Monte-Carlo & policy sensitivity outputs
 ### 2. Demand Curve Modeling (Excel)
 
 \[
-b = -E \cdot \frac{Q_0}{P_0}, \quad a = Q_0 + bP_0
+b = -E · (Q₀ / P₀), a = Q₀ + b · P₀
 \]
 \[
 Q(P) = a - bP
